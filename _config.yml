@@ -26,11 +26,11 @@ features                                  :
     fontawesome_icon_name                 : share
     
   - title                                 : Set Motivational Reminders throughout the Day
-    description                           : Remind yoursel to be positive with custom color widget
+    description                           : Remind yoursel to be positive with custom color widget.
     fontawesome_icon_name                 : bell
     
   - title                                 : Filter Quotes by Category
-    description                           : iMotivation include self-esteem, relationships and dealing with stress, love, work categories and many other.
+    description                           : iMotivation include self-esteem, relationships and dealing with stress, love, work quotes categories and many other.
     fontawesome_icon_name                 : quote-right
     
 # Theme Settings
