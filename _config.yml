@@ -23,15 +23,15 @@ features                                  :
 
   - title                                 : Save or Share your Quotes
     description                           : Share your favourite quotes with friends.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : share
     
   - title                                 : Set Motivational Reminders throughout the Day
     description                           : Remind yoursel to be positive with custom color widget
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : bell
     
   - title                                 : Filter Quotes by Category
     description                           : iMotivation include self-esteem, relationships and dealing with stress, love, work categories and many other.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : quote-right
     
 # Theme Settings
 topbar_color                              : "#000000"
