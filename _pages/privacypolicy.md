@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-September 16 2020
+October 3 2020
 
 # Personal Data
 We collect absolutely nothing. Everything you do is saved to your iCloud and is synced across your devices using the same iCloud account.
